@@ -5,7 +5,7 @@
 
 ```sh
 # Install dependencies
-npm install
+yarn
 
 # Start the app
 npm run start
@@ -18,7 +18,10 @@ npm run start
 
 ## Technologies & Frameworks
 
-- [Bootstrap]()
+- [Bootstrap 4](https://getbootstrap.com/)
 - [Create React App](https://facebook.github.io/create-react-app/)
+- [FontAwesomeIcons](https://fontawesome.com/v5.15/icons)
+- [Github Actions](https://docs.github.com/en/actions)
+- [Google Fonts](https://fonts.google.com/)
 - [React.js](https://reactjs.org/)
-- [Prettier]()
+- [Prettier](https://prettier.io/)
