@@ -9,7 +9,9 @@ const Header = () => {
         <Typed
           className="typed-text"
           strings={[
-            'Web Development',
+            'Frontend Web Development',
+            'Backend Web Development',
+            'Database Design & Integration',
             'CI/CD Automation',
             'Cloud Native Design'
           ]}
@@ -18,7 +20,7 @@ const Header = () => {
           loop
         />
         <a href="#" className="btn-main-offer">
-          Get in touch!
+          Read More!
         </a>
       </div>
     </div>
