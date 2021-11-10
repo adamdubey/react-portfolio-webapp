@@ -121,16 +121,31 @@ nav ul li {
   transition: .2s ease-in-out;
 }
 
-
-.tsparticles-canvas-el {
-  position: absolute;
-  height: 100vh;
-  width: 100vw;
-  z-index: 1;
-}
-
 @media(max-width: 768px){
   .particles-canvas {
     display: none;
+  }
+}
+
+/* About */
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 16rem;
+  padding: .3rem;
+}
+
+.about-heading {
+  color: var(--primary-orange);
+  text-transform: uppercase;
+}
+
+@media(max-width: 468px) {
+  .profile-img {
+    width: 10rem;
   }
 }

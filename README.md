@@ -25,5 +25,4 @@ npm run start
 - [Google Fonts](https://fonts.google.com/)
 - [React.js](https://reactjs.org/)
 - [React-Typed](https://github.com/ssbeefeater/react-typed)
-- [Particles.js](https://github.com/Wufe/react-particles-js)
 - [Prettier](https://prettier.io/)
