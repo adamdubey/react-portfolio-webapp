@@ -1,5 +1,5 @@
 import React from 'react';
-import authImg from '../MERN-logo.png';
+import authImg from '../images/MERN-logo.png';
 
 const About = () => {
   return (
@@ -12,6 +12,15 @@ const About = () => {
         </div>
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">About</h1>
+          <p>
+            This Frontend site was built with React.js. Common "portfolio page" websites often include sections like:
+            <ul>
+              <li>About</li>
+              <li>Portfolio</li>
+              <li>Testimonials</li>
+              <li>Contact</li>
+            </ul>
+          </p>
           <p>
             Common Technologies and Frameworks used for Full Stack Web
             Development include the MERN Stack (MongoDB, Express, ReactJS and
